@@ -6,7 +6,11 @@ Christina Yuneva
 ## 2. Contacts: 
     
 - Phone number: +79878094177
+- Telegram: https://t.me/chris_yuneva
+- GitHub: https://github.com/ChrisYuneva
 - Email: christina_yuneva2000@gmail.com
+- Discord: chris_yuneva #8386
+- VK: https://vk.com/chris_yuneva
 
 ## 3. Brief information
 
@@ -65,4 +69,4 @@ In this project, it was necessary to comply with the following requirements: use
 Unfinished higher education. I am a 3rd year student of the Saratov State Technical University. Fullstack JavaScript Developer Course from Innopolis University.
 
 ## 8. English 
-A1
+A2

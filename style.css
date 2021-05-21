@@ -24,6 +24,10 @@ body{
     text-align: center;
 }
 
+a {
+    color: #312D2D;
+}
+
 main {
     display: flex;
     flex-direction: column;
@@ -41,7 +45,7 @@ span {
     padding-left: 16px;
 }
 
-a {
+.exp_a {
     padding-left: 16px;
 }
 
